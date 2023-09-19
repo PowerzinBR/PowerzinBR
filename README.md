@@ -1,1 +1,1 @@
-Feito pelo @PowerzinBR com muita dedicação e carinho ^_^
+Feito pelo **PowerrDev_** com muita dedicação e carinho ^_^
