@@ -9,7 +9,7 @@ I'm building a markdown note-taking application using Next.js - Electron :)
 
 <h2 align="left">Skills</h2>
 Working today with Next/React & Electron.js<br />
-===============
+<br />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
