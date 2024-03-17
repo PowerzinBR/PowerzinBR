@@ -8,7 +8,7 @@ I'm building a markdown note-taking application using Next.js - Electron :)
 ###
 
 <h2 align="left">Skills</h2>
-Working today with Next/React & Electron.js
+Working today with Next/React & Electron.js<br />
 ===============
 
 <div align="left">
