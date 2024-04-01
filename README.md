@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">My name is Power and I'm a front-end developer, from Brazil </p>
-I'm building a markdown note-taking application using Next.js - Electron :)
+<p align="left">My name is Power and i'm from Brazil </p>
+I'm building a markdown note-taking - like (Inkdrop)[https://inkdrop.app] - (Obsidian)[https://obsidian.md] application using Next.js - Electron :)
 
 😌 I'm also a front-end developer, knowing **Python, Typescript, Javascript, HTML, CSS, and a bit of Kotlin (a BIT)**
 
