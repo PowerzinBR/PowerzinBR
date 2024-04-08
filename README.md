@@ -35,4 +35,4 @@ Working today with Next/React & Electron.js<br />
   Stats
 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerzinBR)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerzinBR&hide=html,css)
