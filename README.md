@@ -3,7 +3,8 @@
 ###
 
 Front-end developer using *𝐑𝐄𝐀𝐂𝐓, 𝐓𝐘𝐏𝐄𝐒𝐂𝐑𝐈𝐏𝐓*
-I'm 𝐏𝐎𝐖𝐄𝐑 (he/is): I am currently learning *𝐛𝐚𝐜𝐤𝐞𝐧𝐝*, i mainly use 
+I'm 𝐏𝐎𝐖𝐄𝐑 (he/is), <br />
+I am currently learning *𝐛𝐚𝐜𝐤𝐞𝐧𝐝*, i mainly use 
 - Prisma,
 - Drizzle,
 - MySQL,
