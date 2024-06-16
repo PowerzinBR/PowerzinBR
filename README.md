@@ -1,17 +1,15 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left"></h1>
 
 ###
 
-<p align="left">My name is Power and i'm from Brazil </p>
-I'm building a markdown note-taking application using Next.js - Electron - like Inkdrop, Obsidian
-
-😌 I'm also a front-end developer, knowing **Python, Typescript, Javascript, HTML, CSS, and a bit of Kotlin (a BIT)** and a litle about Rust, i even made a program in it, check it out!
-
+Front-end developer using *𝐑𝐄𝐀𝐂𝐓, 𝐓𝐘𝐏𝐄𝐒𝐂𝐑𝐈𝐏𝐓*
+I'm 𝐏𝐎𝐖𝐄𝐑 (he/is): I am currently learning *𝐛𝐚𝐜𝐤𝐞𝐧𝐝*, i mainly use 
+- Prisma,
+- Drizzle,
+- MySQL,
+- Postgres
+I also use Bun Javascript Runtime for package manager & more, Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js-compatible package manager.
 ###
-
-<h2 align="left">Skills</h2>
-Working today with Next/React & Electron.js<br />
-<br />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -24,15 +22,7 @@ Working today with Next/React & Electron.js<br />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
 </div>
-
-###
-
-<h2 align="left">
-  Stats
-</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerzinBR&hide=html,css)
