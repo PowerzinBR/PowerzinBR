@@ -2,7 +2,7 @@
 
 ###
 
-Front-end developer using *𝐑𝐄𝐀𝐂𝐓, 𝐓𝐘𝐏𝐄𝐒𝐂𝐑𝐈𝐏𝐓*
+Front-end developer using *𝐑𝐄𝐀𝐂𝐓, 𝐓𝐘𝐏𝐄𝐒𝐂𝐑𝐈𝐏𝐓* <br />
 I'm 𝐏𝐎𝐖𝐄𝐑 (he/is), <br />
 I am currently learning *𝐛𝐚𝐜𝐤𝐞𝐧𝐝*, i mainly use 
 - Prisma,
