@@ -8,8 +8,8 @@ I am currently learning *𝐛𝐚𝐜𝐤𝐞𝐧𝐝*, i mainly use
 - Prisma,
 - Drizzle,
 - MySQL,
-- Postgres
-I also use Bun Javascript Runtime for package manager & more, Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js-compatible package manager.
+- Postgres <br />
+I also use Bun as an package manager & more.
 ###
 
 <div align="left">
