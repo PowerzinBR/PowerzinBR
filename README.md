@@ -1,7 +1,7 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=1A6AF7&width=435&lines=Fullstack+developer;Building+Inksnap" alt="Typing SVG" /></a>
 
 ###
-Front-end developer using *𝐑𝐄𝐀𝐂𝐓, 𝐓𝐘𝐏𝐄𝐒𝐂𝐑𝐈𝐏𝐓* and many others <br />
+Fullstack developer using *𝐑𝐄𝐀𝐂𝐓, 𝐓𝐘𝐏𝐄𝐒𝐂𝐑𝐈𝐏𝐓* and many others <br />
 
 ###
 
