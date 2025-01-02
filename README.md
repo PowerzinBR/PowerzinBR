@@ -6,7 +6,7 @@ Currently using *𝐑𝐄𝐀𝐂𝐓, 𝐓𝐘𝐏𝐄𝐒𝐂𝐑𝐈𝐏𝐓*
 ###
 
 Hey! I'm a fullstack developer. I mainly use React for my applications. <br />
-I'm also building my notes application called **Inksnap**. I'm using React and Electronto build it.
+I'm also building my notes application called **Inksnap**. I'm using React and Electron to build it.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=100000000&color=1A6AF7&width=435&lines=Some+of+my+experiences)](https://git.io/typing-svg)
 
