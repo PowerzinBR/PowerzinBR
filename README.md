@@ -1,12 +1,12 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=1A6AF7&width=435&lines=Fullstack+developer;Building+Inksnap" alt="Typing SVG" /></a>
 
 ###
-Fullstack developer using *𝐑𝐄𝐀𝐂𝐓, 𝐓𝐘𝐏𝐄𝐒𝐂𝐑𝐈𝐏𝐓* and many others <br />
+Currently using *𝐑𝐄𝐀𝐂𝐓, 𝐓𝐘𝐏𝐄𝐒𝐂𝐑𝐈𝐏𝐓* and many others <br />
 
 ###
 
 Hey! I'm a fullstack developer. I mainly use React for my applications. <br />
-I'm also currently building my notes application called **Inksnap**.
+I'm also building my notes application called **Inksnap**. I'm using React and Electronto build it.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=100000000&color=1A6AF7&width=435&lines=Some+of+my+experiences)](https://git.io/typing-svg)
 
