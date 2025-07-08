@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=35&duration=1000&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Fullstack+Developer)](https://git.io/typing-svg)
-<p align="left">My name is Power. I'm currently interested in using Typescript, and also learning C language<p>
-By the way, i'm a fullstack developer. I am building a notes application called Inksnap
+<p align="left">My name is Power. I'm currently interested in using Typescript</p>
+By the way, i'm a fullstack developer. I'm currently learning React Native.
 
+---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=35&duration=1000&pause=1000&color=F7F7F7&repeat=false&width=435&lines=My+experiences)](https://git.io/typing-svg)
 
 <div align="left">
